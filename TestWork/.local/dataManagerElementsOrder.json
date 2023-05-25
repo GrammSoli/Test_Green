@@ -1,0 +1,61 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "rowCountString&Sequence_1",
+        "dt&Sequence_1",
+        "firstDayOfPreviousMonth&Sequence_12",
+        "lastDayOfPreviousMonth&Sequence_12",
+        "rate_table&Sequence_12",
+        "val&Sequence_12",
+        "PreviousMonth&Sequence_12",
+        "rate_table1&Sequence_12",
+        "rowsCount&Sequence_12"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsCSharp/Samples/Ping Monitor.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strPing&Flowchart_2",
+        "output&Flowchart_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main(автосохранение).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt&Sequence_1",
+        "firstDayOfPreviousMonth&Sequence_12",
+        "lastDayOfPreviousMonth&Sequence_12",
+        "rate_table&Sequence_12",
+        "val&Sequence_12",
+        "PreviousMonth&Sequence_12",
+        "rate_table1&Sequence_12",
+        "rowtable2&Sequence_12",
+        "rowsCount&Sequence_12",
+        "rowCountString&Sequence_12",
+        "rowsCountNumeric&Sequence_12"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
